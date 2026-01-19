@@ -1,1 +1,3 @@
-<h2 align="left">Hi 👋</h2>
+## Hi, I'm Mark Yu. 👋
+
+*Previously known on GitHub as mkyyu.*
